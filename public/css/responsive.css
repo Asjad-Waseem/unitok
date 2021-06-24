@@ -1,0 +1,779 @@
+/*
+====================================
+Medium Screen - Others
+====================================
+*/
+@media screen and (min-width: 992px) and (max-width: 1200px) {
+
+.banner-img img:first-of-type {
+    top: 32%;
+    left: 69%;
+
+}
+
+.banner-img img:nth-of-type(2) {
+    top: 34%;
+    left: 89%;
+  
+}
+
+.road-map-area::after {
+    top: 42.8%;
+
+}
+
+.token a {
+    padding: 15px 20px;
+}
+
+
+.aaa {
+    position: relative;
+    top: -61px;
+}
+
+.bbb {
+    top: -75px;
+}
+.ccc {
+     top: -125px;
+}
+
+.ddd {
+   top: -108px;
+}
+
+
+.eee {
+    margin-top: 204.8px !important;
+}
+
+.fff {
+    margin-top: 182px !important;
+}
+
+
+.ggg {
+    margin-top: 160px !important;
+}
+
+.bottom-time ul li::after {
+    height: 236px;
+}
+
+.bottom-time ul li::before {
+    top: 223px;
+}
+
+
+.bottom-img img {
+    width: 72px;
+}
+
+.bottom-img {
+    top: 53%;
+    left: 37%;
+  
+}
+
+.bottom-img2 img {
+    width: 72px;
+}
+
+.bottom-img2 {
+    top: 51%;
+    left: 40.7%;
+  
+}
+
+.pre-cont  a {
+    padding: 10px 40px;
+}
+
+.group label {
+    left: 42%;
+}
+
+.road-map-area {
+    margin: 106px 0 0;
+}
+
+
+
+
+}
+
+/*
+====================================
+Small Screen - Tablate
+====================================
+*/
+@media screen and (min-width: 768px) and (max-width: 991px) {
+
+
+.menu-area li a {
+	padding: 10px;
+}
+
+.log-in li {
+	display: block;
+}
+
+.log-in li a {
+	 padding: 10px 12px;
+}
+
+.log-in li {
+	margin: 8px 0;
+
+}
+
+.banner-img img:nth-of-type(3) {
+	width: 100%;
+}
+
+.banner-cont h2 {
+	font-size: 43px;
+}
+
+.banner-cont {
+	text-align: center;
+	margin: 30px 0;
+}
+
+.token a {
+	  padding: 15px 25px;
+	   margin: 10px 10px 0 0;
+}
+
+.news a {
+	  padding: 15px 25px;
+	   margin: 10px 10px 0 0;
+}
+
+.token-item {
+	margin-bottom: 20px;
+}
+
+.power-item ul li {
+	padding: 20px 10px;
+}
+
+
+.banner-img img:first-of-type {
+    top: 30%;
+    left: 43%;
+
+}
+
+
+.banner-img img:nth-of-type(2) {
+    top: 32%;
+    left: 55.5%;
+  
+}
+
+.pre-cont {
+	width: 100%;
+}
+
+.white a {
+	padding: 10px 40px;
+}
+
+
+.browse-drop {  
+    width: 160px;
+    height: 90px!important;
+
+   
+}
+
+.browse-drop li {
+	padding: 2px 15px!important;
+}
+
+.browse-drop li a {
+	padding: 0!important;
+}
+
+.menu-area li {
+	padding: 0;
+}
+
+
+.upper-time ul li {
+	display: block;
+    width: 50%;
+    margin: 0 auto;
+    padding: 65px 0;
+    padding-left: 20px;
+
+}
+
+.bottom-time ul li {
+    display: block;
+    width: 50%;
+    margin: 0 auto;
+
+}
+.bottom-time ul {
+	width: 100%;
+}
+
+
+.aaa {
+    position: relative;
+    top: -44px;
+}
+
+.bbb {
+    top: -124px;
+}
+.ccc {
+     top: -83px;
+}
+
+.ddd {
+   top: -112px;
+}
+
+.height1::after {
+    bottom: 50px;
+
+}
+
+.eee {
+    margin-top: 92.5px;
+}
+
+.fff {
+    position: relative;
+    top: -48px;
+}
+
+
+.ggg {
+    margin-top: 116px;
+}
+
+.bottom-time ul li::after {
+    height: 116px;
+}
+
+.bottom-time ul li::before {
+    top: 112px;
+}
+
+.bottom-time ul .md1::after {
+    height: 189px;
+    top: -121px;
+}
+
+
+.bottom-time ul .md1::before {
+   top: 52px;
+}
+
+
+.bottom-time ul .md2::after {
+    height: 282px;
+    top: -162px;
+}
+
+.road-map-area::after {
+	display: none;
+}
+
+
+.map-wrapper {
+    padding: 0;
+
+}
+
+.road-map-area {
+    margin: 0;
+}
+
+.bottom-img img {
+    width: 50px;
+}
+
+.bottom-img {
+    top: 57%;
+    left: 38%;
+  
+}
+
+.bottom-img2 img {
+    width: 50px;
+}
+
+.bottom-img2 {
+    top: 55%;
+    left: 41%;
+  
+}
+
+.group label {
+    left: 40%;
+}
+
+.road-map-area {
+    margin: 0;
+}
+
+
+h2 {
+    font-size: 28px!important;
+}
+
+
+
+
+}
+
+
+
+/*
+====================================
+Small Screen - Mobile
+====================================
+*/
+@media screen and (max-width: 767px) {
+
+.road-map-area {
+    margin: 0;
+}
+
+h2 {
+    font-size: 28px!important;
+}
+
+.browse-drop {  
+    width: 160px;
+    height: 120px!important;
+   
+}
+
+.menu-area li {
+	padding: 0!important;
+}
+
+
+.browse-drop li {
+	padding: 0 15px!important;
+}
+
+.menu-area li a {
+	padding: 10px;
+}
+
+.log-in li {
+	display: block;
+}
+
+.log-in li a {
+	 padding: 10px 12px;
+}
+
+.log-in li {
+	margin: 8px 0;
+}	
+
+.sign-up a {
+	display: block;
+	margin: 10px;
+}
+
+.banner-img img {
+	width: 100%;
+}
+
+.banner-cont h2 {
+	font-size: 34px;
+}
+
+.banner-cont {
+	text-align: center;
+	margin: 30px 0;
+}
+
+.token a {
+	  padding: 15px 25px;
+	   margin: 10px 10px 0 0;
+}
+
+.news a {
+	  padding: 15px 25px;
+	   margin: 10px 10px 0 0;
+}
+
+.banner-img img:first-of-type {
+    top: 30%;
+    left: 42%;
+
+}
+
+
+.banner-img img:nth-of-type(2) {
+    top: 32%;
+    left: 55.5%;
+  
+}
+
+
+
+
+.build-item {
+	margin: 20px 0;
+}
+
+.token-item h4:after {
+	left: 43%;
+}
+
+.token-item {
+	margin-bottom: 20px;
+}
+
+.drisbtn-item {
+	margin-bottom: 30px;
+}
+
+.power-item ul li {
+	padding: 20px 5px;
+}
+
+.pre-cont {
+	width: 100%;
+}
+
+
+
+
+.upper-time ul li {
+	display: block;
+    width: 50%;
+    margin: 0 auto;
+    padding: 100px 0;
+    padding-left: 20px;
+
+}
+
+
+.upper-time ul li::before {
+    bottom: 105px;
+    left: -7px;
+}
+
+
+.upper-time ul li::before {
+	bottom: 140px;
+}
+
+.inner-time {
+    margin-top: 0px;
+}
+
+.bottom-time ul li {
+    display: block;
+    width: 50%;
+    margin: 0 auto;
+
+}
+
+
+.bottom-time ul {
+	width: 100%;
+}
+
+
+.bottom-time ul li::before {
+    top: 135px;
+    left: -7px;
+}
+
+
+.bottom-time ul .circle::before {
+	top: 15px
+}
+
+.md-btm {
+    margin-top: 0;
+}
+
+
+.road-map-area::after {
+	display: none;
+}
+
+
+.bottom-img img {
+    width: 72px;
+}
+
+.bottom-img {
+    top: 53%;
+    left: 38%;
+  
+}
+
+.bottom-img2 img {
+    width: 72px;
+}
+
+.bottom-img2 {
+    top: 51%;
+    left: 41.7%;
+  
+}
+
+.pre-cont  a {
+    padding: 10px 40px;
+}
+
+.sign-up a {
+    padding: 8px 30px;
+}
+
+.group label {
+    left: 35%;
+}
+
+
+
+
+
+}
+
+@media screen and (max-width: 475px) {
+
+
+	.banner-img img:first-of-type {
+    top: 24%;
+    left: 40%;
+
+}
+
+
+.banner-img img:nth-of-type(2) {
+    top: 26%;
+    left: 53.5%;
+  
+}
+
+.group label {
+    left: 25%;
+}
+
+
+
+
+.upper-time ul li {
+	display: block;
+    width: 50%;
+    margin: 0 auto;
+    padding: 41px 0;
+    padding-left: 20px;
+
+}
+
+
+.upper-time ul li::before {
+    bottom: 105px;
+    left: -7px;
+}
+
+
+.upper-time ul li::before {
+	bottom: 140px;
+}
+
+.inner-time {
+    margin-top: 0px;
+}
+
+
+
+.bottom-img img {
+    width: 55px;
+}
+
+.bottom-img {
+    top: 56%;
+    left: 37%;
+  
+}
+
+.bottom-img2 img {
+    width: 55px;
+}
+
+.bottom-img2 {
+    top: 53.9%;
+    left: 41.2%;
+  
+}
+
+.bottom-time ul li {
+    display: block;
+    width: 50%;
+    margin: 0 auto;
+
+}
+
+
+.bottom-time ul {
+	width: 100%;
+}
+
+
+.bottom-time ul li::before {
+    top: 135px;
+    left: -7px;
+}
+
+
+.bottom-time ul .circle::before {
+	top: 112px;
+}
+
+
+
+
+
+.md-btm {
+    margin-top: 0;
+}
+
+
+
+
+
+
+.road-map-area::after {
+	display: none;
+}
+
+
+
+
+
+.aaa {
+    position: relative;
+    top: -44px;
+}
+
+.bbb {
+    top: -124px;
+}
+.ccc {
+     top: -83px;
+}
+
+.ddd {
+   top: -112px;
+}
+
+.height1::after {
+    bottom: 50px;
+
+}
+
+.eee {
+    margin-top: 92.5px;
+}
+
+.fff {
+    position: relative;
+    top: -48px;
+}
+
+
+.ggg {
+    margin-top: 116px;
+}
+
+.bottom-time ul li::after {
+    height: 116px;
+}
+
+.bottom-time ul li::before {
+    top: 112px;
+}
+
+.bottom-time ul .md1::after {
+    height: 189px;
+    top: -121px;
+}
+
+
+.bottom-time ul .md1::before {
+   top: 60px;
+}
+
+
+.bottom-time ul .md2::after {
+    height: 282px;
+    top: -162px;
+}
+
+.inner-timebtm {
+    padding-right: 0;
+}
+
+.inner-time {
+    padding-right: 0;
+}
+
+.upper-time ul li h4 {
+    font-size: 14px;
+}
+
+.upper-time ul li p {
+    font-size: 12px;
+}
+
+.inner-timebtm ul li h4 {
+    font-size: 14px;
+}
+
+.bottom-time ul li p {
+    font-size: 12px;
+}
+
+.map-wrapper h2 {
+    font-size: 32px;
+}
+
+.road-map-area {
+    margin: 0;
+}
+
+h2 {
+    font-size: 24px!important;
+}
+
+
+p {
+    font-size: 15px!important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
